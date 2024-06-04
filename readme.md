@@ -1,1 +1,1 @@
-este proyecto se creo con el fin de ayudar a las personas.
+este proyecto se creo con elobjetivo de ofrecer una solución integral que agilice los procesos administrativos y promueva la comunicación fluida entre los miembros del escuadrón. Desde la gestión de turnos hasta la comunicación interna, nuestra plataforma proporciona las herramientas necesarias para optimizar la eficiencia operativa y garantizar un entorno de trabajo más colaborativo y organizado.
